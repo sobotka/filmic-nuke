@@ -1,4 +1,4 @@
-# [Download the latest version of Filmic Nuke](https://github.com/sobotka/filmic-nuke/archive/master.zip)
+# [Download the latest version of Filmic Nuke](https://github.com/sobotka/filmic-nuke/archive/refs/heads/main.zip)
 
 # Who?
 
@@ -22,7 +22,7 @@ Because the basic sRGB nonlinear transfer functions (OETF / EOTF) were designed 
 
 # How?
 
-1. [Download the latest version of Filmic Nuke](https://github.com/sobotka/filmic-nuke/archive/master.zip). Replace your current OpenColorIO configuration via the Nuke Project Settings panel.
+1. [Download the latest version of Filmic Nuke](https://github.com/sobotka/filmic-nuke/archive/refs/heads/main.zip). Replace your current OpenColorIO configuration via the Nuke Project Settings panel.
 
 # Supported Display Colorimetry
 
