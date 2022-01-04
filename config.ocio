@@ -84,6 +84,7 @@ active_views: [
     Filmic High Contrast,
     Filmic Very High Contrast,
     Filmic Log Encoding Base,
+    Filmic False Colour,
     sRGB OETF,
     Non-Colour Data
 ]
